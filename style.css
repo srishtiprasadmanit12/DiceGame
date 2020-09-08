@@ -1,0 +1,13 @@
+body{
+  margin:0;
+  padding:0;
+  color:black;
+
+}
+img{
+  width:150px;
+}
+.dice{
+  display:inline-block;
+  padding-left: 200px;
+}
